@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3c3e807e-6636-0844-a1f4-61b7fafbf7d0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Democracy in America",
+  "course_description": "This course examines the functioning of democracy in the U.S. beginning with the theoretical foundations of democratic representation. It explores how the views of the public influence policy making. It also examines factors, such as malapportionment, that lead to non-majoritarian outcomes. Evidence on how well policy outcomes reflect public opinion is reviewed, and whether certain groups are over or under-represented in the policy process. Also discussed are reforms that might make our democracy more responsive to the American public.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.267",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
